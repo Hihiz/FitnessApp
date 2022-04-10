@@ -1,0 +1,15 @@
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.deps.json
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.dll
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\ref\FitnessApp.BL.dll
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.pdb
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.AssemblyInfoInputs.cache
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.AssemblyInfo.cs
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.csproj.CoreCompileInputs.cache
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.dll
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\ref\FitnessApp.BL.dll
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.pdb
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.csproj.AssemblyReference.cache
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.runtimeconfig.json
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.runtimeconfig.dev.json
+D:\Valera_Doks\Desktop\Изучение С#\FitnessApp\FitnessApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.genruntimeconfig.cache
